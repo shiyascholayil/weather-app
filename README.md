@@ -18,18 +18,22 @@ A Flutter-based weather application that provides real-time weather information 
 * Geolocator
 * HTTP Package
 
-## Screenshots
-
-### Home Screen
-
-![Home Screen](assets/screenshots/splash-screen.jpg)
+##  Screenshots
 
 
-### Current Location Weather
-![Current Location Weather](assets/screenshots/current-location-weather.png)
+<table>
+  <tr>
+    <td><img src="assets/screenshots/1.png" width="250"></td>
+    <td><img src="assets/screenshots/2.png" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/3.png" width="250"></td>
+    <td><img src="assets/screenshots/4.png" width="250"></td>
+  </tr>
+</table>
 
-### City Search Weather
-![City Search Weather](assets/screenshots/city-search-weather.png)
+
+
 
 ## Project Structure
 
