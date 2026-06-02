@@ -24,9 +24,11 @@ A Flutter-based weather application that provides real-time weather information 
 
 (Add screenshot here)
 
-### Search Weather
+### Current Location Weather
+![Current Location Weather](assets/screenshots/current-location-weather.png)
 
-(Add screenshot here)
+### City Search Weather
+![City Search Weather](assets/screenshots/city-search-weather.png)
 
 ## Project Structure
 
@@ -80,8 +82,6 @@ This project uses the OpenWeather API to fetch real-time weather data.
 
 ## Future Enhancements
 
-* 7-day weather forecast
-* Hourly weather forecast
 * Dark mode support
 * Weather notifications
 * Favorite locations
