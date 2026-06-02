@@ -31,13 +31,22 @@ A Flutter-based weather application that provides real-time weather information 
 ## Project Structure
 
 ```text
-lib/
-├── screens/
-├── services/
-├── models/
-├── widgets/
-└── main.dart
-```
+     lib/ 
+     ├── models/ 
+     │   └── wheather_model.dart
+     ├── screens/ 
+     │   ├── intro_screen.dart 
+     │   ├── location_page.dart 
+     │   └── wheather_screen.dart 
+     │ 
+     ├── services/ 
+     │   ├── location_services.dart 
+     │   └── wheather_services.dart  
+     ├── const.dart 
+     ├── custom_dialog.dart 
+     ├── elevated_style.dart 
+     ├── humidity_column.dart 
+     └── main.dart
 
 ## Installation
 
