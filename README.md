@@ -1,16 +1,84 @@
-# wheather_app
+# Weather App
 
-A new Flutter project.
+A Flutter-based weather application that provides real-time weather information using the OpenWeather API. The application automatically detects the user's current location and allows weather searches for any city worldwide.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Current location weather detection
+* Search weather by city name
+* Temperature display in Celsius
+* Weather condition information
+* Responsive and user-friendly UI
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter
+* Dart
+* OpenWeather API
+* Geolocator
+* HTTP Package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+### Home Screen
+
+(Add screenshot here)
+
+### Search Weather
+
+(Add screenshot here)
+
+## Project Structure
+
+```text
+lib/
+├── screens/
+├── services/
+├── models/
+├── widgets/
+└── main.dart
+```
+
+## Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/shiyascholayil/weather-app.git
+```
+
+2. Navigate to the project
+
+```bash
+cd weather-app
+```
+
+3. Install dependencies
+
+```bash
+flutter pub get
+```
+
+4. Run the application
+
+```bash
+flutter run
+```
+
+## API
+
+This project uses the OpenWeather API to fetch real-time weather data.
+
+## Future Enhancements
+
+* 7-day weather forecast
+* Hourly weather forecast
+* Dark mode support
+* Weather notifications
+* Favorite locations
+
+## Author
+
+Shiyas Cholayil
+
+GitHub: https://github.com/shiyascholayil
