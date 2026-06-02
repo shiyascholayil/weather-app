@@ -22,7 +22,7 @@ A Flutter-based weather application that provides real-time weather information 
 
 ### Home Screen
 
-![Home Screen](assets/screenshots/assets/screenshots/splash-screen.jpg)
+![Home Screen](assets/screenshots/splash-screen.jpg)
 
 
 ### Current Location Weather
