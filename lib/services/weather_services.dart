@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter/widgets.dart';
-import 'package:wheather_app/models/wheather_model.dart';
+import 'package:wheather_app/models/weather_model.dart';
 import 'package:http/http.dart' as http;
 
 class WheatherServices {

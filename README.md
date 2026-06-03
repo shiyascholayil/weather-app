@@ -37,15 +37,15 @@ A Flutter-based weather application that provides real-time weather information 
 ```text
      lib/ 
      ├── models/ 
-     │   └── wheather_model.dart
+     │   └── weather_model.dart
      ├── screens/ 
      │   ├── intro_screen.dart 
      │   ├── location_page.dart 
-     │   └── wheather_screen.dart 
+     │   └── weather_screen.dart 
      │ 
      ├── services/ 
      │   ├── location_services.dart 
-     │   └── wheather_services.dart  
+     │   └── weather_services.dart  
      ├── const.dart 
      ├── custom_dialog.dart 
      ├── elevated_style.dart 

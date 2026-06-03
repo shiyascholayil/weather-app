@@ -3,7 +3,7 @@ import 'package:geolocator/geolocator.dart';
 import 'package:wheather_app/const.dart';
 import 'package:wheather_app/custom_dialog.dart';
 import 'package:wheather_app/services/location_services.dart';
-import 'package:wheather_app/screens/wheather_screen.dart';
+import 'package:wheather_app/screens/weather_screen.dart';
 
 class CurrentLocation extends StatefulWidget {
   const CurrentLocation({super.key});

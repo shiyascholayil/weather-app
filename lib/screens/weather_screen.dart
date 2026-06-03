@@ -5,8 +5,8 @@ import 'package:intl/intl.dart';
 
 import 'package:wheather_app/elevated_style.dart';
 import 'package:wheather_app/humidity_column.dart';
-import 'package:wheather_app/models/wheather_model.dart';
-import 'package:wheather_app/services/wheather_services.dart';
+import 'package:wheather_app/models/weather_model.dart';
+import 'package:wheather_app/services/weather_services.dart';
 
 class WheatherScreen extends StatefulWidget {
   final String? cityName;
@@ -163,7 +163,7 @@ class _WheatherScreenState extends State<WheatherScreen> {
 
                           Expanded(
                             child: Text(
-                              'Wheather Details',
+                              'Weather Details',
                               textAlign: TextAlign.center,
                               style: textStyle.copyWith(fontSize: 24),
                             ),

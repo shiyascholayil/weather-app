@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:wheather_app/const.dart';
 import 'package:wheather_app/elevated_style.dart';
 import 'package:wheather_app/screens/location_page.dart';
-import 'package:wheather_app/screens/wheather_screen.dart';
+import 'package:wheather_app/screens/weather_screen.dart';
 
 class IntroScreen extends StatefulWidget {
   const IntroScreen({super.key});
@@ -80,7 +80,7 @@ class _IntroScreenState extends State<IntroScreen> {
 
                     /// App Title
                     Text(
-                      "Wheather App",
+                      "Weather App",
                       style: textStyle.copyWith(fontSize: 34),
                     ),
 
