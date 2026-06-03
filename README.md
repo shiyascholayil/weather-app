@@ -28,7 +28,7 @@ A Flutter-based weather application that provides real-time weather information 
   </tr>
   <tr>
     <td><img src="assets/screenshots/3.png" width="250"></td>
-    <td><img src="assets/screenshots/4.png" width="250"></td>
+    <td><img src="assets/screenshots/4.jpeg" width="250"></td>
   </tr>
 </table>
 
