@@ -17,11 +17,6 @@ A Flutter-based weather application that provides real-time weather information 
 * OpenWeather API
 * Geolocator
 * HTTP Package
-## Demo Video
-
-[▶ Watch Demo](assets/demo.mp4)
-##  Screenshots
-
 
 <table>
   <tr>
